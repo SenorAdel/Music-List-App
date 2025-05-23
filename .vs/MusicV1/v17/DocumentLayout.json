@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yyyhh\\Desktop\\MusicV1.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2E12BE-E1AB-443E-8CCB-4380E4E9F826}|MusicV1\\MusicV1.csproj|c:\\users\\yyyhh\\desktop\\musicv1.3\\musicv1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C2E12BE-E1AB-443E-8CCB-4380E4E9F826}|MusicV1\\MusicV1.csproj|solutionrelative:musicv1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2E12BE-E1AB-443E-8CCB-4380E4E9F826}|MusicV1\\MusicV1.csproj|C:\\Users\\yyyhh\\Desktop\\MusicV1.3\\musicv1\\add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C2E12BE-E1AB-443E-8CCB-4380E4E9F826}|MusicV1\\MusicV1.csproj|solutionrelative:musicv1\\add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2E12BE-E1AB-443E-8CCB-4380E4E9F826}|MusicV1\\MusicV1.csproj|C:\\Users\\yyyhh\\Desktop\\MusicV1.3\\musicv1\\chart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C2E12BE-E1AB-443E-8CCB-4380E4E9F826}|MusicV1\\MusicV1.csproj|solutionrelative:musicv1\\chart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Add.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\yyyhh\\Desktop\\MusicV1.3\\MusicV1\\Add.cs",
+              "RelativeDocumentMoniker": "MusicV1\\Add.cs",
+              "ToolTip": "C:\\Users\\yyyhh\\Desktop\\MusicV1.3\\MusicV1\\Add.cs [Design]",
+              "RelativeToolTip": "MusicV1\\Add.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:57:08.526Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Chart.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\yyyhh\\Desktop\\MusicV1.3\\MusicV1\\Chart.cs",
+              "RelativeDocumentMoniker": "MusicV1\\Chart.cs",
+              "ToolTip": "C:\\Users\\yyyhh\\Desktop\\MusicV1.3\\MusicV1\\Chart.cs [Design]",
+              "RelativeToolTip": "MusicV1\\Chart.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T09:45:11.88Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\yyyhh\\Desktop\\MusicV1.3\\MusicV1\\Form1.cs",
+              "RelativeDocumentMoniker": "MusicV1\\Form1.cs",
+              "ToolTip": "C:\\Users\\yyyhh\\Desktop\\MusicV1.3\\MusicV1\\Form1.cs [Design]",
+              "RelativeToolTip": "MusicV1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T07:05:48.373Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
